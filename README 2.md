@@ -1,0 +1,64 @@
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+ <img src="data:image/png;base64,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" alt="coronavirus">
+<div>
+     <h1><b>COVID-19 Variant Severity Analysis</b></h1>
+  </div>
+</div>
+
+### Project Overview 
+
+This project analyzes a COVID-19 public health dataset to determine which factors contribute to a variant being more severe. By leveraging data exploration, feature engineering, and machine learning models, we identified key predictors of variant severity and evaluated different approaches to improve model accuracy. The findings aim to assist public health decision-makers in predicting severe variants and optimizing healthcare resource allocation.
+
+- **Dataset Description**
+
+- The dataset contains information on various COVID-19 variants detected globally, including:
+  - Number of Cases
+  - Number of Deaths
+  - Recoveries
+  - Hospitalization Rates
+  - Transmission Rates
+  - Mutation Counts
+  - Severity Levels (Mild, Moderate, Severe, Critical)
+  - Country and Detection Date
+
+- **Project Goals**
+
+  
+  - Identify key factors influencing variant severity
+  - Analyze correlations between variant characteristics and severity
+  - Develop machine learning models to predict variant severity
+  - Optimize model performance through feature engineering
+  - Provide insights for public health decision-making
+
+## ⚙️ Data Analysis & Feature Engineering
+
+- Exploratory Data Analysis (EDA): Conducted statistical summaries and visualizations to understand feature distributions.
+- Correlation Analysis: Identified strong predictors such as Case Fatality Rate, Hospitalization Rate, and Mutation Count.
+- Feature Engineering:
+  - Created new variables like Mutation-to-Transmission Ratio
+  - Extracted time-based features ( Month,Year)
+  - One-hot encoded categorical variables
+
+## 📊 Machine Learning Models Tested
+
+1. **Random Forest Regressor and classifier**
+   - Initial Model Issues: High overfitting (`MAE: 0.9`)
+   - Optimization Applied:
+       - Used the most important features for our model
+   - Final Performance: MAE = `0.95`, indicating the model was still struggling with generalization.
+
+2. **XGBoost Classifier**
+   - Challenges:
+     - Final Performance: Accuracy = `25.5%`, showing the need for further refinement.
+     - Precision and Recall scores were poor across severity levels
+    
+## 🔑 Key Findings
+
+1. Machine learning models struggled with accurately predicting severity due to complexity and possible missing features.
+2. Further improvements could include deep learning models, time-series forecasting, and additional epidemiological data.
+
+## 🔮 Future Work
+Improve data quality by incorporating more clinical factors such as symptoms and reinfection rates.
+
+## Conclusion 
+This project provided valuable insights into COVID-19 variant severity prediction, highlighting the complexity of the relationships between mutation rates, transmission, and hospitalization. While Random Forest and XGBoost models provided some insights, further refinement and data enhancements are needed to achieve `higher predictive accuracy`. This study serves as a foundation for future research on pandemic forecasting and healthcare preparedness.
